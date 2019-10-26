@@ -1,5 +1,5 @@
 //
-//  MenuIten.swift
+//  MenuItem.swift
 //  Restaurant
 //
 //  Created by Chislaine Cruz on 10/23/19.

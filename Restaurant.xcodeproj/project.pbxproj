@@ -17,7 +17,7 @@
 		15B50D4E23611FD6009B8765 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D4D23611FD6009B8765 /* MenuTableViewController.swift */; };
 		15B50D5023611FEF009B8765 /* OrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D4F23611FEF009B8765 /* OrderTableViewController.swift */; };
 		15B50D542361242B009B8765 /* MenuItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D532361242B009B8765 /* MenuItemDetailViewController.swift */; };
-		15B50D5623612528009B8765 /* MenuIten.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D5523612528009B8765 /* MenuIten.swift */; };
+		15B50D5623612528009B8765 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D5523612528009B8765 /* MenuItem.swift */; };
 		15B50D58236127CE009B8765 /* IntermediaryModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D57236127CE009B8765 /* IntermediaryModels.swift */; };
 		15B50D5A2361297B009B8765 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D592361297B009B8765 /* Order.swift */; };
 		15B50D5C23612A34009B8765 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B50D5B23612A34009B8765 /* MenuController.swift */; };
@@ -36,7 +36,7 @@
 		15B50D4D23611FD6009B8765 /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
 		15B50D4F23611FEF009B8765 /* OrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewController.swift; sourceTree = "<group>"; };
 		15B50D532361242B009B8765 /* MenuItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemDetailViewController.swift; sourceTree = "<group>"; };
-		15B50D5523612528009B8765 /* MenuIten.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuIten.swift; sourceTree = "<group>"; };
+		15B50D5523612528009B8765 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		15B50D57236127CE009B8765 /* IntermediaryModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntermediaryModels.swift; sourceTree = "<group>"; };
 		15B50D592361297B009B8765 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		15B50D5B23612A34009B8765 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 				15B50D39236119A3009B8765 /* SceneDelegate.swift */,
 				15B50D3B236119A3009B8765 /* ViewController.swift */,
 				15B50D3D236119A3009B8765 /* Main.storyboard */,
-				15B50D5523612528009B8765 /* MenuIten.swift */,
+				15B50D5523612528009B8765 /* MenuItem.swift */,
 				15B50D57236127CE009B8765 /* IntermediaryModels.swift */,
 				15B50D592361297B009B8765 /* Order.swift */,
 				15B50D5B23612A34009B8765 /* MenuController.swift */,
@@ -171,7 +171,7 @@
 				15B50D3A236119A3009B8765 /* SceneDelegate.swift in Sources */,
 				15B50D58236127CE009B8765 /* IntermediaryModels.swift in Sources */,
 				15B50D5023611FEF009B8765 /* OrderTableViewController.swift in Sources */,
-				15B50D5623612528009B8765 /* MenuIten.swift in Sources */,
+				15B50D5623612528009B8765 /* MenuItem.swift in Sources */,
 				15B50D4C23611FC0009B8765 /* CategoryTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
