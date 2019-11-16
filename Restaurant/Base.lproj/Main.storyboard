@@ -170,7 +170,7 @@
             </objects>
             <point key="canvasLocation" x="2581.5999999999999" y="-151.47783251231527"/>
         </scene>
-        <!--Root View Controller-->
+        <!--La Cocina Candente-->
         <scene sceneID="r7i-GT-fAP">
             <objects>
                 <tableViewController id="hYe-s5-rQU" customClass="OrderTableViewController" customModule="Restaurant" customModuleProvider="target" sceneMemberID="viewController">
@@ -209,9 +209,7 @@
                             <outlet property="delegate" destination="hYe-s5-rQU" id="dcP-EW-R30"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="bU9-9q-nq3">
-                        <barButtonItem key="rightBarButtonItem" title="Submit" id="4Vi-wu-3e4"/>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="La Cocina Candente" id="bU9-9q-nq3"/>
                     <connections>
                         <segue destination="Qs0-kx-v9b" kind="presentation" identifier="ConfirmationSegue" id="jhQ-nf-uzv"/>
                     </connections>
@@ -262,7 +260,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="N92-tQ-35c" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="JyI-rF-MvV" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1802.8985507246377" y="581.91964285714278"/>
+            <point key="canvasLocation" x="1802.8985507246377" y="581.25"/>
         </scene>
         <!--Your Order-->
         <scene sceneID="rtD-nq-JJh">
